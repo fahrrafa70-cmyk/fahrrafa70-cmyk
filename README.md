@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Fahri Raffa Evriansah
 
-<!--
-**fahrrafa70-cmyk/fahrrafa70-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer focused on building modern and scalable web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I specialize in developing full-stack web applications using modern JavaScript frameworks and backend technologies.  
+I enjoy building clean, efficient, and maintainable systems.
+
+---
+
+## Tech Stack
+
+### Frontend
+- Next.js
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS
+
+### Backend
+- Laravel (REST API development)
+- PHP
+
+### Database
+- MySQL
+- Supabase
+
+---
+
+## What I Do
+
+- Build responsive and user-friendly web interfaces
+- Develop RESTful APIs with Laravel
+- Integrate frontend applications with backend services
+- Design and manage relational databases
+- Deploy and maintain web applications
+
+---
+
+## Current Focus
+
+- Improving full-stack architecture skills  
+- Writing cleaner and more scalable code  
+- Learning best practices in modern web development  
+
+---
+
+## Contact
+
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile]
