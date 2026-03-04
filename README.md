@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rafa and I'm a Junior Developers, from Blitar</h2>
+<h2 align="left">Hi 👋! My name is Raffa and I'm a Junior Developers, from Blitar</h2>
 
 ###
 
@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
