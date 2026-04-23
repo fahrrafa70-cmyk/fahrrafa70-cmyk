@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Fahrrafa</h1>
+<h1 align="center">Hi 👋, I'm Fahrirafa</h1>
 <h3 align="center">💻 Student | 🌐 Web Developer | ⚡ Tech Enthusiast</h3>
 
 ---
 
 ## 🌟 About Me
-- 🎓 SMK RPL Student
+- 🎓 Vocational Highschool Student
 - 💡 Interested in Web Development & AI
 - 🚀 Currently learning Laravel & JavaScript
 - 🎯 Goal: Become Fullstack Developer
